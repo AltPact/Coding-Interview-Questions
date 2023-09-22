@@ -37,7 +37,12 @@ Thank you for visiting the **Coding Questions Showcase Repository**! I hope you 
 5. Anagram Detection: Determine if two strings are anagrams of each other (contain the same characters, rearranged).
 6. String Manipulation: Problems involving string manipulation like counting characters, finding substrings, or reversing words.
 7. Array Manipulation: Operations on arrays, such as finding the maximum subarray sum or rotating an array.
-8. Linked List Problems: Tasks involving singly or doubly linked lists, such as reversing a linked list or detecting cycles.
+8. Linked List Problems: 
+    1. Reverse a singly linked list.
+    2. Detect a cycle in a singly linked list
+Tasks involving singly or doubly linked lists, such as reversing a linked list or detecting cycles.
+    (Problem: Reverse a singly linked list.
+    You are given the head of a singly linked list. Reverse the list and return its head.)
 9. Tree Problems: Tree-related problems like tree traversal (pre-order, in-order, post-order), finding the lowest common ancestor, or checking if a binary tree is balanced.
 10. Sorting Algorithms: Implement or analyze sorting algorithms like Quicksort, Merge Sort, or Heap Sort.
 11. Searching Algorithms: Implement or analyze searching algorithms like Binary Search.
@@ -52,3 +57,26 @@ Thank you for visiting the **Coding Questions Showcase Repository**! I hope you 
 20. Object-Oriented Design: Design and implement classes and interfaces to solve specific problems.
 21. Database Design: Design and query databases, create ER diagrams, or optimize database queries.
 22. Real-World Application: Some interviews may involve solving problems that mimic real-world scenarios related to the company's domain.
+
+## Conceptual Coding Interview Questions (Answers still in development)
+Apart from just being able to code an answer, it is cruicial the a coder understands the fundemental concepts of computer science. These questions will work to test that knowledge:
+<li>
+    <ol> What is a data structure?
+    <ol> What is an array?
+    <ol> What is a linked list?
+    <ol> What is the difference between an array and a linked list?
+    <ol> What is LIFO?
+    <ol> What is FIFO?
+    <ol> What is a stack?
+    <ol> What are binary trees?
+    <ol> What are binary search trees?
+    <ol> What is object-oriented programming?
+    <ol> What is the purpose of a loop in programming?
+    <ol> What is a conditional statement?
+    <ol> What is debugging?
+    <ol> What is recursion?
+    <ol> What are the differences between linear and non-linear data structures?
+</li>
+In interviews, get ready for some conceptual questions thrown at you by recruiters or hiring managers. They want to see if you're cool with the basic stuff in computer science.
+Think about stuff like arrays, linked lists, trees, and graphs. Also, those old pals sorting and searching algorithms, they might pop up.
+To get ready, just brush up on these concepts and try explaining them casually to someone who's not tech-savvy. Easy peasy, right?
