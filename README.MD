@@ -61,21 +61,21 @@ Tasks involving singly or doubly linked lists, such as reversing a linked list o
 ## Conceptual Coding Interview Questions (Answers still in development)
 Apart from just being able to code an answer, it is cruicial the a coder understands the fundemental concepts of computer science. These questions will work to test that knowledge:
 <li>
-    <ol> What is a data structure?
-    <ol> What is an array?
-    <ol> What is a linked list?
-    <ol> What is the difference between an array and a linked list?
-    <ol> What is LIFO?
-    <ol> What is FIFO?
-    <ol> What is a stack?
-    <ol> What are binary trees?
-    <ol> What are binary search trees?
-    <ol> What is object-oriented programming?
-    <ol> What is the purpose of a loop in programming?
-    <ol> What is a conditional statement?
-    <ol> What is debugging?
-    <ol> What is recursion?
-    <ol> What are the differences between linear and non-linear data structures?
+    <ol> What is a data structure? </ol>
+    <ol> What is an array? </ol>
+    <ol> What is a linked list? </ol>
+    <ol> What is the difference between an array and a linked list? </ol>
+    <ol> What is LIFO? </ol>
+    <ol> What is FIFO? </ol>
+    <ol> What is a stack? </ol>
+    <ol> What are binary trees? </ol>
+    <ol> What are binary search trees? </ol>
+    <ol> What is object-oriented programming? </ol>
+    <ol> What is the purpose of a loop in programming? </ol>
+    <ol> What is a conditional statement? </ol>
+    <ol> What is debugging? </ol>
+    <ol> What is recursion? </ol>
+    <ol> What are the differences between linear and non-linear data structures? </ol>
 </li>
 In interviews, get ready for some conceptual questions thrown at you by recruiters or hiring managers. They want to see if you're cool with the basic stuff in computer science.
 Think about stuff like arrays, linked lists, trees, and graphs. Also, those old pals sorting and searching algorithms, they might pop up.
